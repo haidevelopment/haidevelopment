@@ -44,10 +44,9 @@ I enjoy turning complex ideas into **clean, maintainable, and scalable products*
 - ⚡ Redis (basic)
 
 ### ⚙️ Tools & DevOps
-- 🐙 Git / GitHub
+- 🐙 Git / GitHub / Gitlab
 - 🐳 Docker (basic)
 - 🧪 Postman
-- 🖥 Linux Server (basic deployment)
 - ☁️ CI/CD (basic understanding)
 
 ---
@@ -65,9 +64,7 @@ A full-featured **E-learning platform** focused on scalability and real-world us
 - API-based Architecture
 
 **Tech Stack:**  
-`React / Next.js` • `Node.js / Laravel` • `MySQL`
-
-🔗 Repo: https://github.com/yourusername/edu-platform
+`Next.js` • `Node.js / Laravel / Socket` • `MySQL`
 
 ---
 
@@ -78,14 +75,6 @@ Contributed to developing and maintaining production-level **Edu Platform system
 - Frontend feature implementation
 - Bug fixing & performance optimization
 - Working with real users & real data
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Contact Me

@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Hai Dev
 
-🚀 Fullstack Developer | Edu Platform & E-learning Systems  
-📍 Hanoi, Vietnam | 👨‍💻 22 years old
+Fullstack Developer | Edu Platform & E-learning Systems  
+Hanoi, Vietnam | 22 years old
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I’m a **Fullstack Developer** with **1+ year of hands-on experience** in building **modern web applications**, especially in the **Education & E-learning domain**.
 
-- 🏢 Currently working at **UUP.VN** – an Edu Platform / E-learning company  
-- 🎓 Actively developing my own **Edu Platform project**
-- 💡 Strong focus on **scalable backend systems** & **modern frontend UI**
-- 🔥 Passionate about **EdTech, AI integration & system optimization**
+- Currently working at **UUP.VN** – an Edu Platform / E-learning company  
+- Actively developing my own **Edu Platform project**
+- Strong focus on **scalable backend systems** & **modern frontend UI**
+- Passionate about **EdTech, AI integration & system optimization**
 
 I enjoy turning complex ideas into **clean, maintainable, and scalable products**.
 
@@ -20,40 +20,37 @@ I enjoy turning complex ideas into **clean, maintainable, and scalable products*
 
 ## 🛠 Tech Stack
 
-### 🌐 Frontend
-- ⚛️ React.js
-- 🔺 Next.js
-- 🖖 Vue.js
-- 🧠 Redux / Zustand
-- 🎨 Tailwind CSS / SCSS / CSS Modules
-- 📦 Vite / Webpack
-- 🧪 React Hook Form / Axios
-
+### Frontend
+- React.js
+- Next.js
+- Vue.js
+- Redux / Zustand
+- Tailwind CSS / SCSS / CSS Modules / Bootstrap
+- Vite / Webpack
 ### 🔧 Backend
-- 🟢 Node.js (Express, REST API)
-- 🔴 Laravel
-- 🟡 Yii2 Framework
-- 🔐 Authentication & Authorization
-- 📡 RESTful APIs
-- 🧩 MVC / Modular Architecture
+- Node.js (Express, REST API)
+- Laravel
+- Yii2 Framework
+- Authentication & Authorization
+- RESTful APIs
+- MVC / Modular Architecture
 
 ### 🗄 Database
-- 🐬 MySQL
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-- ⚡ Redis (basic)
+- MySQL
+- MongoDB
+- Redis (basic)
 
 ### ⚙️ Tools & DevOps
-- 🐙 Git / GitHub / Gitlab
-- 🐳 Docker (basic)
-- 🧪 Postman
-- ☁️ CI/CD (basic understanding)
+- Git / GitHub / Gitlab
+- Docker (basic)
+- Postman
+- CI/CD (basic understanding)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎓 Edu Platform (Personal Project)
+### Edu Platform (Personal Project)
 A full-featured **E-learning platform** focused on scalability and real-world usage.
 
 **Features:**
@@ -68,7 +65,7 @@ A full-featured **E-learning platform** focused on scalability and real-world us
 
 ---
 
-### 🏫 UUP.VN – E-learning System
+### UUP.VN – E-learning System
 Contributed to developing and maintaining production-level **Edu Platform systems**.
 
 - Backend API development
@@ -77,15 +74,13 @@ Contributed to developing and maintaining production-level **Edu Platform system
 - Working with real users & real data
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 📧 Email: **haidevelopment24@gmail.com**
-- 📞 Phone: **0329 500 240**
-- 🌐 Facebook: https://facebook.com/yourprofile
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🌍 Portfolio: https://yourwebsite.com
+- Email: **haidevelopment24@gmail.com**
+- Phone: **0329 500 240**
+- Facebook: https://facebook.com/leducngochaidev
 
 ---
 
-⭐️ *Always learning, always building.  
+*Always learning, always building.  
 Let’s create impactful products together!* 🚀
